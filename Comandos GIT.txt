@@ -1,0 +1,6 @@
+git diff // diferença do original pra base
+git blame arquivo.pass //verificar quem modificou tal arquivo
+git clone http://frederico.goncalves@bitbucket.pcinformatica.com.br/scm/aut20/pcsis2097.git
+mkdir teste  //Cria Diretório (Pasta)
+
+
