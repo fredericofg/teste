@@ -5,6 +5,8 @@ mkdir teste  //Cria Diretório (Pasta)
 
 aaa
 
+tttt
+222
 
 
 
